@@ -1,0 +1,96 @@
+
+
+
+.header{
+
+  position: relative;
+   height:672px;
+  width: 100%;
+}
+
+.head-para{
+position: absolute; 
+bottom:20%;
+right:40%;
+/* left:-50%;
+transform:translatex(50%) */
+  
+}
+.top-sec{
+    position: relative;
+    
+}
+h1{
+    color:white;
+}
+.sec-section{
+   padding: 3%;
+    text-align: center;
+}
+.down-icon{
+    position:absolute;
+    bottom: -20px;
+  
+    right:49%;
+  background-color: #AA7A2F;
+    padding: 15px;
+    border-radius: 50px;
+}
+.my-card-img{
+width: 342px;
+height: 407.12px;
+
+}
+.cards{
+    padding:20px;
+}
+.image-cap{
+    position: absolute;
+    bottom: 0;
+    right: 30%;
+   
+}
+.content{
+    padding: 3% 15%;
+}
+.instagram{
+    position: relative;
+}
+.insta-logo img{
+    position: absolute;
+    right: 0;
+}
+.addres-bar{
+    display: flex;
+}
+.foot{
+    background-color: #AA7A2F;
+    padding: 20px;
+    color:white;
+}
+.cart{
+    font-size: x-large;
+    
+}
+.card-footer{
+    text-align: center;
+    color: white;
+}
+.my-button{
+    background-color:#AA7A2F ;
+    border:none;
+    padding:10px 15px;
+    color: white;
+}
+.appoint-btn{
+    background-color: white;
+    color: #AA7A2F ;
+    border:none;
+    padding: 10px 15px;;
+
+}
+.input-group-prepend{
+    background-color: #AA7A2F;
+    border:none;
+    
+}
